@@ -10,7 +10,7 @@
 
 My name is Akash. I am an Aspiring FullStack developer. I love doing side-projects and to date have made many of them. Please have a look at my [GitHub repositories](https://github.com/leader-akash?tab=repositories) to know more about them.
 
-<a href="leader.akashak@gmail.com">Mail ID</a>
+<a href="mailto:leader.akashak@gmail.com">Mail ID</a>
 
 ### 👀 Some Things About Me
 <li> ⚡I’m interested in tech & sports</li>
